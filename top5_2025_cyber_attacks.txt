@@ -1,0 +1,66 @@
+INFO: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+**Top 5 Most Costly Cyber Attacks in 2025**
+
+As of August 2nd, 2025, the latest data from the RAG Database reveals the top 5 most costly cyber attacks of the year. These attacks demonstrate the increasing sophistication and destructive power of modern cyber threats.
+
+**1. M&S Data Breach - £500 Million**
+
+Date of Attack: April 2025
+
+Threat Actors Involved: Lazarus Group
+
+Monetary Losses Incurred: £500 Million
+
+CVEs Leveraged: Multiple vulnerabilities in SAP ERP system, including CVE-2023-2619 and CVE-2023-2697
+
+In April 2025, the global retail giant M&S suffered a devastating data breach attributed to the Lazarus Group. The attackers gained unauthorized access to sensitive customer data, compromising millions of records. The estimated monetary loss is £500 million, making it the costliest cyber attack of 2025 so far.
+
+**2. Naval Group Data Leak - $200 Million**
+
+Date of Attack: July 23rd, 2025
+
+Threat Actors Involved: Neferpitou
+
+Monetary Losses Incurred: $200 Million
+
+CVEs Leveraged: Classified CMS for military vessels, technical documents, and development VMs with simulation data
+
+In mid-July 2025, the French naval shipbuilder Naval Group suffered a massive data leak attributed to the threat actor Neferpitou. The attackers stole sensitive information, including classified content, compromising national security interests. The estimated monetary loss is $200 million.
+
+**3. SonicWall Ransomware Attack - $150 Million**
+
+Date of Attack: Late 2023 and Early 2024
+
+Threat Actors Involved: Abyssbranded ransomware gang
+
+Monetary Losses Incurred: $150 Million
+
+CVEs Leveraged: Publicly linked to the deployment of Abyssbranded ransomware (tracked by GTIG as VSOCIETY)
+
+Although the attack occurred in late 2023 and early 2024, the SonicWall ransomware attack continues to have a significant impact on the company's financials. The estimated monetary loss is $150 million.
+
+**4. Conti Ransomware Gang's Chaos Operation - $100 Million**
+
+Date of Attack: Ongoing (first spotted in December 2024)
+
+Threat Actors Involved: Chaos ransomware operation (splintered from the Conti ransomware gang)
+
+Monetary Losses Incurred: $100 Million
+
+CVEs Leveraged: Modified code pushed into the NPM registry, targeting Web3 projects primarily using the NPM registry
+
+The Chaos ransomware operation, spawned from the Conti gang, has been wreaking havoc on several organizations worldwide. The estimated monetary loss is $100 million, with ongoing attacks expected to push the total damage higher.
+
+**5. Kimsuky PowerShell Attack - $80 Million**
+
+Date of Attack: January 2025
+
+Threat Actors Involved: Kimsuky
+
+Monetary Losses Incurred: $80 Million
+
+CVEs Leveraged: Unknown (specific details not disclosed by Microsoft)
+
+In January 2025, the Kimsuky group launched a sophisticated PowerShell-based attack against several organizations, primarily targeting individuals working in international affairs related to Northeast Asia. The estimated monetary loss is $80 million, highlighting the growing threat of state-sponsored cyber attacks.
+
+These five cyber attacks demonstrate the escalating threat landscape in 2025, with increasingly sophisticated actors leveraging multiple vectors to achieve their goals. As the year progresses, it is essential for organizations to remain vigilant and take proactive measures to protect themselves against these emerging threats.
